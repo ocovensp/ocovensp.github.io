@@ -676,8 +676,6 @@ textarea.form-control {
 /* homepage 2 */
 .hero-section {
   padding: 70px 0 0;
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(45%, #fff), color-stop(0, #fdefe6));
-  background-image: linear-gradient(#fff 45%, #fdefe6 0);
 }
 
 .dividers {
